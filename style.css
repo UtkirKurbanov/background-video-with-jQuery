@@ -1,0 +1,15 @@
+*   {
+    margin: 0;
+    padding: 0;
+}
+
+.video  {
+    min-height: 100vh;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(13, 13, 98, 0.198);
+}
+
+.text h1    {
+    color: aliceblue;
+}
